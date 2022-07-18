@@ -19,6 +19,8 @@ function makePromiseCall(methodType, url, async = true, data = null) {
                     status: xhr.status,
                     statusText: xhr.statusText
                 });
+                console.log("XHR Failed");
+
             }
         }
         xhr.open(methodType, url, async);
