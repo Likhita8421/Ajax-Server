@@ -1,0 +1,44 @@
+{
+  "EmployeePayrollDB": [
+    {
+      "id": 1,
+      "_name": "Mark Taylor",
+      "_gender": "male",
+      "_department": [
+        "HR",
+        "Sales",
+        "Finance",
+        "Engineer"
+      ],
+      "_salary": "500000",
+      "_startDate": "20 Oct 2018",
+      "_note": "All in One",
+      "_profilePic": "../assets/image1.jpg"
+    },
+    {
+      "id": 2,
+      "_name": "Ahana Rathore",
+      "_gender": "female",
+      "_department": [
+        "HR",
+        "Engineer"
+      ],
+      "_salary": "600000",
+      "_startDate": "16 Nov 2019",
+      "_note": "All in One",
+      "_profilePic": "../assets/image2.jpg"
+    },
+    {
+      "_name": "Sudhir Thakur",
+      "_gender": "male",
+      "_department": [
+        "Engineer"
+      ],
+      "_salary": "400000",
+      "_startDate": "11 Oct 2021",
+      "_note": "All in One",
+      "_profilePic": "../assets/image3.jpg",
+      "id": 3
+    }
+  ]
+}
